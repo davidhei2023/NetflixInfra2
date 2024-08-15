@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: server
-        image: inkcube/netflix-movie-catalog:v1.0.12
+        image: alonithuji/netflix-movie-catalog-dev:v1.0.7
         resources:
           requests:
             cpu: 200m
